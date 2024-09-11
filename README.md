@@ -44,17 +44,20 @@ Me considero una persona proactiva, autodidacta y orientada a resultados. Disfru
 <div style="display: flex; justify-content: space-between;">
   <div>
     <b>My GitHub Stats</b>
+
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JostinBz16&layout=compact)
+    
   </div>
 
   <div>
 
     <img src="https://github-readme-stats.vercel.app/api?username=JostinBz16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-    
+
   </div>
 </div>
 
 <div align="center">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=JostinBz16&theme=onedark)](https://github.com/JostinBz16/github-profile-trophy)
 </div>
 
